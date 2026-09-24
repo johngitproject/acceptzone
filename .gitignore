@@ -1,0 +1,9 @@
+#venv/
+__pycache__/
+*.pyc
+backtest_out/
+donnees/
+*.Last.txt
+!sample/*.Last.txt
+.DS_Store
+Thumbs.db
